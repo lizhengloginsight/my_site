@@ -1,4 +1,4 @@
-# my_site
+﻿# my_site
 Django+Bootstrap搭建的简易个人博客
 1.后台使用Bootstrap-admin
 2.实现文章按月归档
@@ -8,5 +8,6 @@ Django+Bootstrap搭建的简易个人博客
 5.采用JQcloud实现标签云功能
 6.后台引入TinyMce富文本编辑器,前端使用SyntaxHighlighter进行代码高亮
 7.引入站长统计以及访问统计
+8........
 
 
